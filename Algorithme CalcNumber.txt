@@ -1,0 +1,3 @@
+Algorithme CalcNumber
+
+resultCalc = 168

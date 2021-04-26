@@ -1,0 +1,7 @@
+Algorithme SayHello
+
+name: String
+
+Write(« Votre Nom »)
+read(name)
+Write(‘Bonjour’ name ‘!’) 
